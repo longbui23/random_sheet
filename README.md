@@ -1,7 +1,6 @@
 ## What It Does
 Real-time assistive AI that narrates the physical world for visually impaired users.
 
-Here’s a **single, clean Markdown file** you can copy and use directly without interruptions or nested backtick issues:
 
 ````markdown
 # Real-Time Detection Project Setup
